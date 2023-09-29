@@ -2,7 +2,7 @@
 
 This project aims to provide a comprehensive solution for measuring the similarity between questions on Quora. It helps users identify duplicate questions and provides them with relevant answers.
 
-Ckeck the project  : https://quora-question-similarity.onrender.com
+Check the project  : https://quora-question-similarity.onrender.com
 
 ## Features
 
