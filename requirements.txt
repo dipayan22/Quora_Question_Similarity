@@ -1,0 +1,7 @@
+gunicorn
+Flask
+requests
+fuzzywuzzy
+nltk
+pandas
+scikit-learn
