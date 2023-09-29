@@ -5,3 +5,5 @@ fuzzywuzzy
 nltk
 pandas
 scikit-learn
+distance
+bs4
