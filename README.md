@@ -22,6 +22,7 @@ fuzzywuzzy==0.18.0
 nltk==3.6.5
 pandas==1.3.4
 scikit-learn==1.0.1
+```
 
 Acknowledgments
 This project was inspired by the need to identify duplicate questions on Quora.
