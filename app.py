@@ -1,6 +1,12 @@
 from flask import Flask,request,render_template
 import pickle
 import helper
+import nltk
+
+
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
 
 model=pickle.load(open('model.pkl','rb'))
 
